@@ -1,0 +1,76 @@
+{
+  "project_title": "Alize VVIP Residence",
+  "project_status": "publish",
+  "acf": {
+    "project_investor": "Tập đoàn ABC",
+    "project_location_text": "123 Đường Tôn Đức Thắng, Quận 1, TP. HCM",
+    "project_scale": "2 toà tháp, 500 căn hộ",
+    "project_product_type": "Căn hộ cao cấp, Penthouse",
+    "project_price": "Từ 150 triệu/m2",
+    "project_progress": "Đang thi công phần thân",
+    "project_handover": "Quý 4/2026",
+    "project_short_desc": "Dự án căn hộ hạng sang mang tiêu chuẩn sống 5 sao tại trung tâm thành phố.",
+    "project_highlights": "<ul><li>Vị trí kim cương trung tâm Q1</li><li>Thiết kế độc bản bởi kiến trúc sư quốc tế</li><li>Tiện ích resort trên không 360 độ</li></ul>",
+    "project_map_iframe": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10200.207865203598!2d106.69766629910323!3d10.771142502690941!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f41857c2c1f%3A0xe54df6a640a3dd9f!2sBen%20Thanh%20Market!5e0!3m2!1sen!2s!4v1683103433589!5m2!1sen!2s\" width=\"600\" height=\"450\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+    "project_nearby": [
+      {
+        "type": "mall",
+        "name": "Vincom Đồng Khởi",
+        "distance": "5 phút / 1km"
+      },
+      {
+        "type": "hospital",
+        "name": "Bệnh viện Vinmec",
+        "distance": "10 phút / 3km"
+      }
+    ],
+    "project_amenities_list": [
+      {
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" class=\"w-8 h-8\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M4.098 19.902a3.75 3.75 0 005.304 0l6.401-6.402M6.75 21A3.75 3.75 0 013 17.25V4.125C3 3.504 3.504 3 4.125 3h5.25c.621 0 1.125.504 1.125 1.125v4.072M6.75 21a3.75 3.75 0 003.75-3.75V8.197M6.75 21h13.125c.621 0 1.125-.504 1.125-1.125v-5.25c0-.621-.504-1.125-1.125-1.125h-4.072M10.5 8.197l2.88-2.88c.438-.439 1.15-.439 1.59 0l3.712 3.713c.44.44.44 1.152 0 1.59l-2.879 2.88\" /></svg>",
+        "name": "Hồ bơi vô cực",
+        "desc": "Tầm nhìn panorama toàn thành phố."
+      },
+      {
+        "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" class=\"w-8 h-8\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M2.25 12l8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25\" /></svg>",
+        "name": "Phòng Gym 5 Sao",
+        "desc": "Trang thiết bị hiện đại nhập khẩu."
+      }
+    ],
+    "project_floorplans_list": [
+      {
+        "title": "Mặt bằng tổng thể",
+        "type": "Master Plan",
+        "image": "",
+        "pdf": ""
+      },
+      {
+        "title": "Căn hộ 2 Phòng Ngủ",
+        "type": "2BR",
+        "image": "",
+        "pdf": ""
+      }
+    ],
+    "project_pricing_list": [
+      {
+        "type": "1 Phòng Ngủ",
+        "area": "50m2",
+        "price": "Từ 7.5 Tỷ",
+        "status": "sold"
+      },
+      {
+        "type": "2 Phòng Ngủ",
+        "area": "75m2",
+        "price": "Từ 11.2 Tỷ",
+        "status": "available"
+      },
+      {
+        "type": "3 Phòng Ngủ",
+        "area": "110m2",
+        "price": "Từ 16.5 Tỷ",
+        "status": "coming"
+      }
+    ],
+    "project_seo_title": "Alize VVIP Residence - Hiện Thực Hoá Giấc Mơ Thượng Lưu",
+    "project_seo_desc": "Sở hữu ngay siêu phẩm căn hộ cao cấp tại trung tâm..."
+  }
+}
